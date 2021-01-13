@@ -1,6 +1,6 @@
 # Reglamentos FAPCDMS
 
-Reposito oficial de la FAPCDMS donde se alojan los relglamentos Tecnicos y Deportivos de todas las Categorias que esta entidad fiscaliza.
+Este es una backup hasta el dia 13/01/2020. Hecho en conjunto con Lisandro.-
 
 ## Clonar
 
